@@ -1,0 +1,4 @@
+*ASP.NET Core Web API project
+*.Net Core 8.0
+.program.cs => AddMemoryCache
+
