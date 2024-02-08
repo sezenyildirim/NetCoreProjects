@@ -1,0 +1,4 @@
+*Asp.Net Core Web App(m-v-c) Project
+* Net Core 8.0
+*program.cs => using Microsoft.AspNetCore.Authentication.Cookies
+
